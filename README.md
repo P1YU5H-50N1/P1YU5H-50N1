@@ -46,22 +46,14 @@ A library management system featuring a **recommendation engine**, showcasing th
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=P1YU5H-50N1&show_icons=true&theme=tokyonight&count_private=true" alt="Piyush's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=P1YU5H-50N1&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ### 📫 Connect with Me
 
 - **LinkedIn:** [Piyush Soni](https://www.linkedin.com/in/P1YU5H-50N1)
 - **Twitter:** [@ViewsOfPiyush](https://twitter.com/ViewsOfPiyush)
 - **Portfolio:** [Visit My Repositories](https://github.com/P1YU5H-50N1?tab=repositories)
 - **Email:** [me.piyush.360@gmail.com](mailto:me.piyush.360@gmail.com)
-  
+
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FP1YU5H-50N1&count_bg=%2379C0FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false) 
 <p align="center">
   <i>"Building the bridge between data-driven insights and seamless user experiences."</i>
 </p>

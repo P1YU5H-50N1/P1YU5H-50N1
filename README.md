@@ -53,7 +53,9 @@ A library management system featuring a **recommendation engine**, showcasing th
 - **Portfolio:** [Visit My Repositories](https://github.com/P1YU5H-50N1?tab=repositories)
 - **Email:** [me.piyush.360@gmail.com](mailto:me.piyush.360@gmail.com)
 
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FP1YU5H-50N1&count_bg=%2379C0FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false) 
+[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FP1YU5H-50N1&count_bg=%2379C0FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false) 
+](https://komarev.com/ghpvc/?username=P1YU5H-50N1)
+
 <p align="center">
   <i>"Building the bridge between data-driven insights and seamless user experiences."</i>
 </p>

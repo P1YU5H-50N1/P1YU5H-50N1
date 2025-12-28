@@ -1,8 +1,8 @@
 # Hey, This is Piyush 👋
 
-I am a **Software Engineer** specializing in **Full Stack Development** and **Machine Learning**. My experience lies in building high-performance systems and data-intensive applications within trading environments, ranging from real-time financial dashboards to analysing huge datasets to squeeze insights.
-Currently exploring **Generative AI** and **Agentic Systems** to develop LLM-based agents for decision-making and workflow automation.
-Seeking opportunities to leverage my skills and experience in **Fullstack development, Python, and Rust** to build scalable, data-intensive products.Open to connecting!
+I am a **Software Engineer** specializing in **Full Stack Development** and **Machine Learning**. My experience lies in building high-performance systems and data-intensive applications within trading environments, ranging from real-time financial dashboards to analysing huge datasets to squeeze insights.  
+Currently exploring **Generative AI** and **Agentic Systems** to develop LLM-based agents for decision-making and workflow automation.  
+Seeking opportunities to leverage my skills and experience in **Fullstack development, Python, and Rust** to build scalable, data-intensive products.Open to connecting!  
 
 ---
 
